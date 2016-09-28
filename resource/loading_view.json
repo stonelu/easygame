@@ -1,0 +1,15 @@
+{
+"resources":
+	[
+		{"name":"loading_view","type":"image","url":"assets/loading/loading_view.png"},
+		{"name":"loading_view_bg","type":"image","url":"assets/loading/loading_view_bg.png"},
+		{"name":"loading_logo","type":"image","url":"assets/loading/loading_logo.jpg"},
+		{"name":"loading_tiao","type":"image","url":"assets/loading/loading_tiao.jpg"},
+		{"name":"loading_tiao_bg","type":"image","url":"assets/loading/loading_tiao_bg.jpg"}
+	],
+
+"groups":
+	[
+        {"name":"loading_view","keys":"loading_view,loading_view_bg,loading_logo,loading_tiao,loading_tiao_bg"}
+	]
+}
