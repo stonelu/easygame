@@ -29,7 +29,7 @@ EasyGame工具中自带了该源码,在使用EasyGame生成项目的时候,会�
 
 5.技术问题,请移步我们的网站:
 --------------------
-  * http://www.easygame.com
+  * http://www.easygame.org
   
 6.联系我们
 --------------------
